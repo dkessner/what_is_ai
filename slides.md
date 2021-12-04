@@ -41,12 +41,16 @@ Darren.Kessner@marlborough.org
 
 ---
 
-## Blah
+## Artificial Intelligence
 
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
+.center[
+<img src="pix/brain.png" width="80%">
+]
+
+---
+
+## Some math
+
 
 ---
 
