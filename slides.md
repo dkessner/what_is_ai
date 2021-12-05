@@ -54,6 +54,47 @@ Darren.Kessner@marlborough.org
 
 ---
 
+## Application: Recommendations
+
+- movie / video / music recommendations
+- targetted ads
+
+---
+
+
+## Application: Facial recognition
+
+- automatic tagging of friends on social media
+- wrongful arrest
+- identification of suspects
+    - criminal activity
+    - lawful protest
+- surveillance
+
+---
+
+## Application: Pattern recognition
+
+- optical character recognition
+- spam filters
+- fraud detection
+- loan approval
+- predictive policing
+
+- images:
+    - exo-planet detection
+    - weapon automatic target acquisition
+
+---
+
+## Application: Games
+
+- chess, Go 
+- flight simulator
+    - dog fight challenge
+
+---
+
 .center[
 
 <br/><br/>
