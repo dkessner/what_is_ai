@@ -62,13 +62,22 @@ a:hover {
 }
 
 
-.left-column {
-    width: 50%;
+.left-column40 {
+    width: 40%;
     float: left;
 }
 
+.left-column60 {
+    width: 60%;
+    float: left;
+}
 
-.right-column {
-    width: 50%;
+.right-column40 {
+    width: 40%;
+    float: right;
+}
+
+.right-column60 {
+    width: 60%;
     float: right;
 }

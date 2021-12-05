@@ -51,6 +51,37 @@ Darren.Kessner@marlborough.org
 
 ## Some math
 
+.left-column40[
+<img src="pix/regression.png" width="80%">
+]
+
+.right-column60[
+
+Linear regression: 
+
+- Find best fit line
+    - equation y = mx + b
+    - find parameters m, b that minimize error
+    - _"train the model"_
+
+- Make predictions
+]
+
+<div style="clear:both;"></div>
+
+<br/>
+
+.left-column60[
+Extensions:
+
+- More dimensions
+- More complicated functions
+]
+
+.right-column40[
+<img src="pix/cat.jpg" width="35%">
+<img src="pix/dog.jpg" width="45%">
+]
 
 ---
 
@@ -58,7 +89,7 @@ Darren.Kessner@marlborough.org
 
 <br/>
 
-- movie / video / music recommendations
+- Movie / video / music recommendations
 
 .center[
 <img src="logos/netflix.png" width="10%">
@@ -68,7 +99,7 @@ Darren.Kessner@marlborough.org
 
 <br/>
 
-- targeted ads
+- Targeted ads
 
 .center[
 <img src="logos/google.png" width="10%">
@@ -77,7 +108,7 @@ Darren.Kessner@marlborough.org
 
 <br/>
 
-- extreme content / radicalization
+- Extreme content / radicalization
 
 .center[
 <img src="logos/youtube.png" width="10%">
@@ -90,15 +121,15 @@ Darren.Kessner@marlborough.org
 
 ## Application: Facial recognition
 
-- automatic tagging of friends on social media
-- identification of criminal suspects
+- Automatic tagging of friends on social media
+- Identification of criminal suspects
 
 .center[
 <img src="pix/face_tagging.jpg" width="40%">
 ]
 
-- wrongful arrest
-- surveillance of lawful gatherings
+- Wrongful arrest
+- Surveillance of lawful gatherings
 
 .center[
 <img src="pix/face_joy.png" width="60%">
@@ -108,21 +139,21 @@ Darren.Kessner@marlborough.org
 
 ## Application: Pattern recognition
 
-- optical character recognition
-- spam filters
-- fraud detection
-- cancer detection
-- exo-planet detection
+- Optical character recognition
+- Spam filters
+- Fraud detection
+- Cancer detection
+- Exo-planet detection
 
 .center[
 <img src="pix/pattern_cancer.png" width="30%">
 <img src="pix/pattern_exoplanet.png" width="60%">
 ]
 
-- loan approval
-- resume / job interview filters
-- predictive policing
-- weapon automatic target acquisition
+- Loan approval
+- Resume / job interview filters
+- Predictive policing
+- Weapon automatic target acquisition
 
 .center[
 <img src="pix/pattern_police.jpg" width="40%">
@@ -131,18 +162,18 @@ Darren.Kessner@marlborough.org
 
 ---
 
-## Application: Games and Robots
+## Application: Games and robots
 
-- chess, Go 
-- flight simulator
+- Chess, Go 
+- Flight simulator
 
 .center[
 <img src="pix/games_deepblue.jpg" width="35%">
 <img src="pix/games_dogfight.jpg" width="40%">
 ]
 
-- self-driving cars
-- lethal autonomous robots
+- Self-driving cars
+- Lethal autonomous robots
 
 .center[
 <img src="pix/games_selfdriving.jpg" width="35%">
@@ -160,16 +191,25 @@ Darren.Kessner@marlborough.org
 
 * AI makes predictions based on historical patterns
 
+<br/>
+<br/>
 
----
+.left-column40[
+<img src="pix/qr_stem.png" width="100%">
+]
 
-.center[
+.right-column60[
 
-<br/><br/>
+<br/>
 
-### <a href="http://stem.marlborough.org" target="_blank">http://stem.marlborough.org</a>
+__Coding Workshop: Code your own AI program!__  
 
-<img src="pix/qr_stem.png" width="60%">
+_Wednesday Dec 8 (Community Day)_  
+_11:30am, SPARC D215_  
+
+<br/>
+
+Presented by Code Violet, no coding experience necessary!
 
 ]
 
