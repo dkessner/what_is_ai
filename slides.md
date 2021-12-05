@@ -54,10 +54,36 @@ Darren.Kessner@marlborough.org
 
 ---
 
-## Application: Recommendations
+## Application: Recommendation systems
+
+<br/>
 
 - movie / video / music recommendations
-- targetted ads
+
+.center[
+<img src="logos/netflix.png" width="10%">
+<img src="logos/amazon.png" width="10%">
+<img src="logos/spotify.png" width="10%">
+]
+
+<br/>
+
+- targeted ads
+
+.center[
+<img src="logos/google.png" width="10%">
+<img src="logos/gmail.png" width="10%">
+]
+
+<br/>
+
+- extreme content / radicalization
+
+.center[
+<img src="logos/youtube.png" width="10%">
+<img src="logos/facebook.png" width="10%">
+]
+
 
 ---
 
@@ -65,11 +91,18 @@ Darren.Kessner@marlborough.org
 ## Application: Facial recognition
 
 - automatic tagging of friends on social media
+- identification of criminal suspects
+
+.center[
+<img src="pix/face_tagging.jpg" width="40%">
+]
+
 - wrongful arrest
-- identification of suspects
-    - criminal activity
-    - lawful protest
-- surveillance
+- surveillance of lawful gatherings
+
+.center[
+<img src="pix/face_joy.png" width="60%">
+]
 
 ---
 
@@ -78,10 +111,11 @@ Darren.Kessner@marlborough.org
 - optical character recognition
 - spam filters
 - fraud detection
+- cancer detection
 - loan approval
+- resume / job interview filters
 - predictive policing
-
-- images:
+- large scale image filtering
     - exo-planet detection
     - weapon automatic target acquisition
 
@@ -89,9 +123,29 @@ Darren.Kessner@marlborough.org
 
 ## Application: Games
 
+.left-column[
 - chess, Go 
 - flight simulator
     - dog fight challenge
+- autonomous robots and cars
+]
+
+.right-column[
+- ethical issues
+    - self-driving cars: life prioritization
+    - lethal autonomous robots
+]
+
+---
+
+## Summary
+
+* AI is not a __good__ or __bad__ technology
+
+* AI is good at pattern recognition
+
+* AI makes predictions based on historical patterns
+
 
 ---
 
