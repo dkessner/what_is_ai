@@ -1,14 +1,15 @@
-
-
-
 layout: true
+
+<!-- 
+layout slide is omitted from slideshow, and serves as default template for
+subsequent slides 
+-->
 
 .logo[
 <a href="http://marlborough.org" target="_blank">
 <img src="pix/logo.png" width="30%">
 </a>
 ]
-
 
 .logo2[
 <a href="http://stem.marlborough.org" target="_blank">
@@ -17,7 +18,6 @@ http://stem.marlborough.org
 ]
 
 ---
-
 
 .center[
 # What is AI <br/> and <br/> Why Should I Care?
@@ -54,14 +54,13 @@ Darren.Kessner@marlborough.org
 
 ---
 
-
-<br/><br/>
-
 .center[
 
 <br/><br/>
 
 ### <a href="http://stem.marlborough.org" target="_blank">http://stem.marlborough.org</a>
+
+<img src="pix/qr_stem.png" width="60%">
 
 ]
 
