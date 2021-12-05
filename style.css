@@ -25,13 +25,13 @@ a:hover {
 .logo {
     position: absolute;
     left: 20px;
-    bottom: -20px;
+    bottom: 0px;
 }
 
 .logo2 {
     position: absolute;
     left: 30%;
-    bottom: -10px;
+    bottom: 2px;
 }
 
 .purple { 
