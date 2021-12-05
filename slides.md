@@ -131,20 +131,24 @@ Darren.Kessner@marlborough.org
 
 ---
 
-## Application: Games
+## Application: Games and Robots
 
-.left-column[
 - chess, Go 
 - flight simulator
-    - dog fight challenge
-- autonomous robots and cars
+
+.center[
+<img src="pix/games_deepblue.jpg" width="35%">
+<img src="pix/games_dogfight.jpg" width="40%">
 ]
 
-.right-column[
-- ethical issues
-    - self-driving cars: life prioritization
-    - lethal autonomous robots
+- self-driving cars
+- lethal autonomous robots
+
+.center[
+<img src="pix/games_selfdriving.jpg" width="35%">
+<img src="pix/games_robotdog.webp" width="35%">
 ]
+
 
 ---
 
