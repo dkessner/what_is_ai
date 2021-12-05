@@ -49,7 +49,7 @@ Darren.Kessner@marlborough.org
 
 ---
 
-## Some math
+## Machine learning
 
 .left-column40[
 <img src="pix/regression.png" width="80%">
