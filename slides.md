@@ -112,12 +112,22 @@ Darren.Kessner@marlborough.org
 - spam filters
 - fraud detection
 - cancer detection
+- exo-planet detection
+
+.center[
+<img src="pix/pattern_cancer.png" width="30%">
+<img src="pix/pattern_exoplanet.png" width="60%">
+]
+
 - loan approval
 - resume / job interview filters
 - predictive policing
-- large scale image filtering
-    - exo-planet detection
-    - weapon automatic target acquisition
+- weapon automatic target acquisition
+
+.center[
+<img src="pix/pattern_police.jpg" width="40%">
+<img src="pix/pattern_airforce.jpg" width="25%">
+]
 
 ---
 
