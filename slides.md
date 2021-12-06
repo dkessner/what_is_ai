@@ -191,23 +191,23 @@ Extensions:
 
 * AI makes predictions based on historical patterns
 
+* Our future leaders need to understand the advantages and
+  disadvantages of this technology for society.
+
+<br/>
 <br/>
 <br/>
 
 .left-column40[
-<img src="pix/qr_stem.png" width="100%">
+<img src="pix/qr_stem.png" width="70%">
 ]
 
 .right-column60[
-
-<br/>
 
 __Coding Workshop: Code your own AI program!__  
 
 _Wednesday Dec 8 (Community Day)_  
 _11:30am, SPARC D215_  
-
-<br/>
 
 Presented by Code Violet, no coding experience necessary!
 
